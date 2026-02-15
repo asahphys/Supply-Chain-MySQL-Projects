@@ -3,4 +3,5 @@ This project presents an SQL-based supply chain analysis using the Richard’s S
 The analysis addresses business-driven SQL questions such as product demand evaluation, discount and savings analysis, supplier competition, and customer–supplier relationships based on country. It also examines products for which the UK is dependent on foreign suppliers, with results supported by well-documented SQL queries and structured project documentation.
 
 Source:
+
 https://github.com/Shubham-S151/MySQL-project
